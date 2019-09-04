@@ -1,0 +1,24 @@
+{
+  "name": "node-login-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyinjie/node-login-mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyinjie/node-login-mysql/issues"
+  },
+  "homepage": "https://github.com/huyinjie/node-login-mysql#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "mysql": "^2.17.1"
+  }
+}
